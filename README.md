@@ -31,6 +31,9 @@ Groq LLM (Llama-3.3-70B)
 
 ⚡ How It Works
 
+![working](images/i4.png)
+
+
 User provides:
 
 City/ State/ Country 🌆
@@ -44,5 +47,13 @@ Budget 💰
 The app sends the query to the Groq-powered AI model.
 
 The AI generates a personalized itinerary, formatted day by day.
+
+# App Screenshots
+
+![](images/i1.jpeg)
+
+![](images/i2.jpeg)
+
+![](images/i3.png)
 
 The results are displayed in a modern UI with Markdown.
